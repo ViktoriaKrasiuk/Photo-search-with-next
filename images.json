@@ -1,0 +1,20 @@
+{
+  [
+    {
+      "image": "./static/1.jpg",
+      "id": 1
+    },
+    {
+      "image": "./static/2.jpg",
+      "id": 2
+    },
+    {
+      "image": "./static/3.jpg",
+      "id": 3
+    },
+    {
+      "image": "./static/4.jpg",
+      "id": 4
+    }
+  ]
+}
